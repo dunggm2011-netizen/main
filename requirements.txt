@@ -1,4 +1,0 @@
-python-telegram-bot==20.7
-httpx==0.25.2
-requests==2.31.0
-Flask==3.0.0
